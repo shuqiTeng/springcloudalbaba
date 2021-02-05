@@ -1,2 +1,2 @@
-server:
-  port: 8000
+config:
+  info: 8000
